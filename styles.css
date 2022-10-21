@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}
+.main-body{
+    margin: 0 auto;
+    width: 30%;
+    background-color:white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+}
+.post-header{
+    display: flex;
+    padding-bottom: 2%;
+}
+.user-icon{
+    width: 10%;
+    font-size: 210%;
+    padding-top: 3%;
+    text-align: right;
+    padding-right: 4%;
+}
+.user-name{
+    width: 80%;
+    line-height: 0.2;
+}
+.user-id{
+    font-weight: bolder;
+    font-size: larger;
+}
+.user-id-name{
+    font-size: larger;
+}
+.menu-buttons{
+    text-align: right;
+    width: 10%;
+    font-size: 275%;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+.image{
+    height: 400px;
+    object-fit: contain;
+}
+.image img{
+    width: 100%;
+}
+.main-icons{
+    display: flex;
+}
+.like{
+    font-size: 275%;
+    padding-left: 2%;
+    padding-right: 1%;
+}
+.comment{
+    font-size: 275%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.send{
+    font-size: 275%;
+    width: 75%;
+    padding-left: 1%;
+}
+.bookmark{
+    font-size: 275%;
+    padding-right: 2%;
+}
+.content-info{
+    font-size: larger;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.content-desc{
+    font-size: larger;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 30px;
+}
